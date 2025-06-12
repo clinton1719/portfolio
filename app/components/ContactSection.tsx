@@ -4,8 +4,8 @@ export const ContactSection = () => {
 	return (
 		<section id="contact" className="py-12 sm:py-20 px-4 scroll-mt-20">
 			<div className="max-w-4xl mx-auto text-center px-4 sm:px-6">
-				<h2 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-gray-900">Let&apos;s Build Something Amazing</h2>
-				<p className="text-sm sm:text-base text-gray-600 mb-6">Looking for a developer who can create high-performance, interactive web experiences?</p>
+				<h2 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-gray-900">Reach out!</h2>
+				<p className="text-sm sm:text-base text-gray-600 mb-6">I love collborating on open source projects and trying my hand on ambitious projects primarily on AWS and Java based. Do reach out if you would like to collborate</p>
 
 				{/* Location */}
 				<div className="flex items-center justify-center gap-2 text-gray-600 mb-8">
@@ -18,7 +18,7 @@ export const ContactSection = () => {
 						/>
 						<path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
 					</svg>
-					<span>San Francisco, CA</span>
+					<span>Pune, Maharashtra; India</span>
 				</div>
 
 				{/* Contact Buttons */}
@@ -34,7 +34,7 @@ export const ContactSection = () => {
 						Get in Touch
 					</a>
 					<a
-						href="/resume.pdf"
+						href="/Clinton_Fernandes_Senior-Software_Engineer.pdf"
 						target="_blank"
 						className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white border border-gray-200 text-gray-700 rounded-lg font-medium hover:bg-gray-50 transition-colors"
 					>
@@ -53,7 +53,7 @@ export const ContactSection = () => {
 				{/* Social Links */}
 				<div className="flex justify-center gap-6">
 					<a
-						href="https://github.com"
+						href="https://github.com/clinton1719"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="text-gray-600 hover:text-gray-900 transition-colors p-2 hover:bg-gray-100 rounded-lg"
@@ -63,7 +63,7 @@ export const ContactSection = () => {
 						</svg>
 					</a>
 					<a
-						href="https://linkedin.com"
+						href="https://www.linkedin.com/in/clinton-fernandes-45932915a/"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="text-gray-600 hover:text-gray-900 transition-colors p-2 hover:bg-gray-100 rounded-lg"
@@ -73,7 +73,7 @@ export const ContactSection = () => {
 						</svg>
 					</a>
 					<a
-						href="https://twitter.com"
+						href="https://x.com/MinimalDebugger"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="text-gray-600 hover:text-gray-900 transition-colors p-2 hover:bg-gray-100 rounded-lg"

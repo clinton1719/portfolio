@@ -47,10 +47,7 @@ export const HeroSection = () => {
                 <span className="h-[1px] w-8 sm:w-12 bg-blue-500"></span>
               </div>
               <p className="text-base sm:text-lg text-gray-600 max-w-2xl px-4 sm:px-0">
-                Results-driven Senior Software Engineer (5+ years experience)
-                building scalable, cloud-native applications with Java, Spring
-                Boot, and AWS Serverless. Successfully optimized cloud
-                infrastructure, reducing costs by up to 30%.
+              Results-driven Senior Software Engineer with 5+ years of experience building scalable, cloud-native systems using Java, Spring Boot, and AWS Serverless. I’ve led cost-optimization efforts cutting cloud spend by up to 30%, contribute to open source, and share engineering insights through technical blogs on system design, Java, and AWS.
               </p>
             </div>
 
@@ -100,6 +97,8 @@ export const HeroSection = () => {
           </div>
         </div>
       </div>
+
+      <br />
 
       {/* Scroll Indicator */}
       <div className="absolute bottom-8 inset-x-0 flex flex-col items-center animate-bounce">
